@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semen\\source\\repos\\Lybrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB8D2D9-433F-43A4-9661-DAF88CEFE9AE}|MyLibrary\\MyLibrary.vcxproj|C:\\Users\\semen\\source\\repos\\Lybrary\\MyLibrary\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FB8D2D9-433F-43A4-9661-DAF88CEFE9AE}|MyLibrary\\MyLibrary.vcxproj|solutionrelative:MyLibrary\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAF9723-F020-4B1F-A8C4-25275DA590CC}|Main\\Main.vcxproj|C:\\Users\\semen\\source\\repos\\Lybrary\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FAF9723-F020-4B1F-A8C4-25275DA590CC}|Main\\Main.vcxproj|solutionrelative:Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Lybrary\\Main\\Main.cpp",
+              "RelativeDocumentMoniker": "Main\\Main.cpp",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Lybrary\\Main\\Main.cpp",
+              "RelativeToolTip": "Main\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T21:00:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Lybrary\\MyLibrary\\MyLibrary.cpp",
+              "RelativeDocumentMoniker": "MyLibrary\\MyLibrary.cpp",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Lybrary\\MyLibrary\\MyLibrary.cpp",
+              "RelativeToolTip": "MyLibrary\\MyLibrary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T20:48:10.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
